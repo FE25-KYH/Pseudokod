@@ -33,5 +33,7 @@ Split the nota räknar ut hur mycket varje vän ska betala på exempelvis en res
 
 ![alt text](https://user-images.githubusercontent.com/54267140/108719104-76a6a200-751f-11eb-9d43-8d3d7b355793.png)
 
+## 3. GitHub med pseudokod
+Med hjälp av pseudokod ska du skapa en algoritm för att följa en html-fil från att den börjar trackas av Git till att den finns uppe på GitHub. Vilka steg behöver man följa? Vilka kommandon används? Gör research genom att googla, bolla med AI och testa dig fram i terminalen. 
 
 
