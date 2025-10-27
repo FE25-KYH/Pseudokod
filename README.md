@@ -1,1 +1,25 @@
-# Pseudokod
+# Övning i att skriva pseudokod
+
+
+## Instruktioner
+
+Du ska i denna övning skriva pseudokod för nedanstående problem. Om du vill kan du använda dig av de keywords som finns i detta [cheat sheet](https://gist.github.com/zocom-christoffer-wallenberg/dbb443c26407cfec308f9578ccf9845a).
+
+All "kodning" skall göras i filen script.js (denna klonar du och öppnar lokalt på din dator), där finns även förslag på startkod. 
+
+
+## Split the nota
+
+Split the nota räknar ut hur mycket varje vän ska betala på exempelvis en restaurang när notan kommer. Användaren matar in summan, antal vänner och sedan dricks (**som skrivs i decimalform d.v.s 10% blir 0.10**). Skisserna nedan är mest för att ge visuell bild av hur det ser ut, du behöver inte ha med sådant som "byt vy" eller liknande i din pseudokod.
+
+
+**Räkna ut**
+
+![alt text](https://user-images.githubusercontent.com/54267140/108719099-75757500-751f-11eb-8c3b-f80a1dca7956.png)
+
+**Visa summa**
+
+![alt text](https://user-images.githubusercontent.com/54267140/108719104-76a6a200-751f-11eb-9d43-8d3d7b355793.png)
+
+
+
