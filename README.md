@@ -1,6 +1,12 @@
 ## 1. Komma igång med pseudokod
 1. Titta på denna [video](https://www.youtube.com/watch?v=cDA3_5982h8)
 2. Skriv pseudokod för ett recept du hittar på t ex [ICA](https://www.ica.se/)
+3. Använd datalogiskt tänkande på processen:
+     - Dela upp - decomposition
+     - Hitta mönster - pattern recognition
+     - Abstrahera - abstraction
+     - Designa en algoritm
+
 
 
 
