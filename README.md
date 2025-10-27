@@ -5,7 +5,7 @@
 
 Du ska i denna övning skriva pseudokod för nedanstående problem. Om du vill kan du använda dig av de keywords som finns i detta [cheat sheet](https://gist.github.com/zocom-christoffer-wallenberg/dbb443c26407cfec308f9578ccf9845a).
 
-All "kodning" skall göras i filen script.js (denna klonar du och öppnar lokalt på din dator), där finns även förslag på startkod. 
+All "kodning" skall göras i filen script.js (du klonar filen och öppnar den lokalt på din dator). 
 
 
 ## Split the nota
