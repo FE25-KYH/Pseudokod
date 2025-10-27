@@ -1,9 +1,10 @@
-## Komma igång med pseudokod
+## 1. Komma igång med pseudokod
 1. Titta på denna [video](https://www.youtube.com/watch?v=cDA3_5982h8)
-2. Skriv pseudokod för ett recept du hittar på t ex [ICA](www.ica.se)
+2. Skriv pseudokod för ett recept du hittar på t ex [ICA](https://www.ica.se/)
 
 
-## Övning i att skriva pseudokod
+
+## 2. Övning i att skriva pseudokod
 
 
 ### Instruktioner
