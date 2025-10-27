@@ -4,7 +4,7 @@
 
 
 
-## 2. Övning i att skriva pseudokod
+## 2. App med pseudokod!
 
 
 ### Instruktioner
